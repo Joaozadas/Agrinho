@@ -1,0 +1,3 @@
+//usandomap() para aplicar o comportamentode árvores plantadas
+  plantas.map((arvore)=>arvore.mostrar());
+  // Função para mostrar as informações na tela 
